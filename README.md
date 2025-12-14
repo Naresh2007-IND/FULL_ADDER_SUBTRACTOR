@@ -48,8 +48,12 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
+![add wave](https://github.com/user-attachments/assets/a2e8aadf-d1e9-4347-91cb-10d68da6408b)
+![sub wave](https://github.com/user-attachments/assets/ed834812-6657-4bcd-b162-ece0991a5476)
 
 **Output Timing Waveform**
+![add diagram](https://github.com/user-attachments/assets/84e8620c-fd8d-4bf0-bd59-3dc488520227)
+![sub diagram](https://github.com/user-attachments/assets/411267ef-8531-41ad-addf-a583eb4bb51e)
 
 **Result:**
 
